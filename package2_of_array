@@ -1,0 +1,8 @@
+//package2_of_array
+package package2;
+
+public class Helper {
+    public void showMessage(String msg) {
+        System.out.println("Helper says: " + msg);
+    }
+}
