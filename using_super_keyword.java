@@ -17,7 +17,8 @@ public class using_super_keyword {
  Child c= new Child();
     }
 }
-
+/*
 Output:
 Parent constructor: Maharin
 Child constructor
+*/
