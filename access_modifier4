@@ -1,0 +1,13 @@
+//Saved as First.java
+package pack;  
+Public class First{  
+  public  void msg(){System.out.println("Hello");}}
+//save as Second.java  
+package mypack;  
+import pack.*;  
+class access_modifier4{  
+  public static void main(String args[]){  
+   First obj = new First();
+   obj.msg();  
+  }  
+}  }
